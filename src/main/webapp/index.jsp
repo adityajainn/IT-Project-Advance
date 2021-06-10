@@ -34,7 +34,7 @@
 
 <div class="container">
 	<div class="row">
-		<img alt="banner" src="./img/welcome.jpg" class="img-rounded" width="100%" height="200">
+		<img alt="banner" src="./img/bidbanner.jpg" class="img-rounded" width="100%" height="200">
 	</div>
 	<br/>
 	<div class="row">
